@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[samuelgreggmusic]]></title>
-        <description><![CDATA[samuelgreggmusic]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Samuel Gregg]]></title>
+        <description><![CDATA[Samuel Gregg]]></description>
+        <link>https://thegrid.ai/samuelgreggmusic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 02:15:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 19 Feb 2016 02:31:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/samuelgreggmusic/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>[soundcloud url="https://api.soundcloud.com/tracks/247791263" params="auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true" width="100%" height="450" iframe="true" /]</p>]]></description>
+            <link>https://thegrid.ai/samuelgreggmusic/72594cf9-3ffd-4248-819b-0edb0dc3635c/index.html</link>
+            <guid isPermaLink="false">72594cf9-3ffd-4248-819b-0edb0dc3635c</guid>
+            <pubDate>Fri, 19 Feb 2016 02:31:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/86181579-b0f6-4aa6-9f65-ba825d20a760.jpg">]]></description>
-            <link>undefineddc07fa7a-eb8b-4cac-b885-cff07e4460bc/index.html</link>
+            <link>https://thegrid.ai/samuelgreggmusic/dc07fa7a-eb8b-4cac-b885-cff07e4460bc/index.html</link>
             <guid isPermaLink="false">dc07fa7a-eb8b-4cac-b885-cff07e4460bc</guid>
             <pubDate>Fri, 19 Feb 2016 02:13:37 GMT</pubDate>
         </item>
