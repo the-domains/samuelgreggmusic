@@ -1,6 +1,6 @@
 name: samuelgreggmusic
 favicon: null
-layout_spectrum: 0.94455
+layout_spectrum: 0.87026
 typography_spectrum: 0.84159
 title: Samuel Gregg
 cta:
@@ -22,7 +22,7 @@ color:
     - '#d92854'
     - '#839096'
     - '#da739a'
-  brandStrength: 0.1875
+  brandStrength: 0.25
   lightness: 0.375
   saturation: 0.75
   rhythmicContrast: 0.5
