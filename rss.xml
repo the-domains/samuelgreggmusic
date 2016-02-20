@@ -4,7 +4,7 @@
         <description><![CDATA[Samuel Gregg]]></description>
         <link>https://thegrid.ai/samuelgreggmusic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 04:00:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Feb 2016 04:01:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/samuelgreggmusic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/samuelgreggmusic/45de0911-e1a2-40c5-8d26-ccedab4be201/index.html</link>
             <guid isPermaLink="false">45de0911-e1a2-40c5-8d26-ccedab4be201</guid>
             <pubDate>Sat, 20 Feb 2016 03:48:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/86181579-b0f6-4aa6-9f65-ba825d20a760.jpg">]]></description>
-            <link>https://thegrid.ai/samuelgreggmusic/dc07fa7a-eb8b-4cac-b885-cff07e4460bc/index.html</link>
-            <guid isPermaLink="false">dc07fa7a-eb8b-4cac-b885-cff07e4460bc</guid>
-            <pubDate>Fri, 19 Feb 2016 02:13:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
