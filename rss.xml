@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Samuel Gregg]]></title>
-        <description><![CDATA[Samuel Gregg]]></description>
+        <title><![CDATA[SamuelGreggMusic.com]]></title>
+        <description><![CDATA[SamuelGreggMusic.com]]></description>
         <link>https://thegrid.ai/samuelgreggmusic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 04:01:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 22:45:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/samuelgreggmusic/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Land Between The Mountains by Samuel Gregg]]></title>
+            <description><![CDATA[<article><h1>Land Between The Mountains by Samuel Gregg</h1><p>2016 Desolate Angel BMI</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1083dbcfa8edc251de73c12ae4ae969cfc6fa2ba.jpg"></article>]]></description>
+            <link>https://soundcloud.com/samuel-gregg/land-between-the-mountains</link>
+            <guid isPermaLink="false">93044933-fbc9-4e10-89c1-7ab9be147233</guid>
+            <pubDate>Tue, 23 Feb 2016 22:45:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d745b587-31da-464e-b227-6e3d152f4981.jpg">]]></description>
