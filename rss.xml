@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[SamuelGreggMusic.com]]></title>
         <description><![CDATA[SamuelGreggMusic.com]]></description>
-        <link>https://thegrid.ai/samuelgreggmusic/</link>
+        <link>http://samuelgreggmusic.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 22:45:31 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/samuelgreggmusic/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 29 May 2016 22:40:22 GMT</lastBuildDate>
+        <atom:link href="http://samuelgreggmusic.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44715ba4-bedd-432d-b7f3-73313c30c8ff.jpg">]]></description>
+            <link>http://samuelgreggmusic.com/45de0911-e1a2-40c5-8d26-ccedab4be201/index.html</link>
+            <guid isPermaLink="false">45de0911-e1a2-40c5-8d26-ccedab4be201</guid>
+            <pubDate>Sun, 29 May 2016 22:40:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Land Between The Mountains by Samuel Gregg]]></title>
             <description><![CDATA[<article><h1>Land Between The Mountains by Samuel Gregg</h1><p>2016 Desolate Angel BMI</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1083dbcfa8edc251de73c12ae4ae969cfc6fa2ba.jpg"></article>]]></description>
@@ -15,24 +22,17 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d745b587-31da-464e-b227-6e3d152f4981.jpg">]]></description>
-            <link>https://thegrid.ai/samuelgreggmusic/c9da07e3-eea0-4e62-9118-2e5f4741f06f/index.html</link>
-            <guid isPermaLink="false">c9da07e3-eea0-4e62-9118-2e5f4741f06f</guid>
-            <pubDate>Sat, 20 Feb 2016 03:38:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/82e81cc8-388b-452d-a9b7-4d91e8a1c0a8.jpg">]]></description>
-            <link>https://thegrid.ai/samuelgreggmusic/b9b9cc3a-7394-4d9d-a065-cd4f437ec092/index.html</link>
+            <link>http://samuelgreggmusic.com/b9b9cc3a-7394-4d9d-a065-cd4f437ec092/index.html</link>
             <guid isPermaLink="false">b9b9cc3a-7394-4d9d-a065-cd4f437ec092</guid>
             <pubDate>Sat, 20 Feb 2016 03:59:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab601888-82b2-4b7e-8ee3-3517e2b6770a.jpg">]]></description>
-            <link>https://thegrid.ai/samuelgreggmusic/45de0911-e1a2-40c5-8d26-ccedab4be201/index.html</link>
-            <guid isPermaLink="false">45de0911-e1a2-40c5-8d26-ccedab4be201</guid>
-            <pubDate>Sat, 20 Feb 2016 03:48:52 GMT</pubDate>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d745b587-31da-464e-b227-6e3d152f4981.jpg">]]></description>
+            <link>http://samuelgreggmusic.com/c9da07e3-eea0-4e62-9118-2e5f4741f06f/index.html</link>
+            <guid isPermaLink="false">c9da07e3-eea0-4e62-9118-2e5f4741f06f</guid>
+            <pubDate>Sat, 20 Feb 2016 03:38:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
